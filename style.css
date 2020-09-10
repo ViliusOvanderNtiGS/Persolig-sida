@@ -1,0 +1,52 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+body {
+  background-color: lightsalmon;
+}
+
+header {
+  padding: 8px;
+  background-color: black;
+  color: white;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+nav li {
+  list-style: none;
+  margin: 32px;
+  display: inline-block;
+}
+
+h1,
+h2 {
+  text-align: center;
+  margin: 32px;
+}
+
+footer {
+  padding: 8px;
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+td {
+  margin: 48px;
+  padding: 48px;
+}
+
+#nummer3 {
+  color: black;
+}
